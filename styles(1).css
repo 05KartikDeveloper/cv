@@ -1,0 +1,128 @@
+body {
+    margin:0;
+}
+.bottom {
+        text-align: center;
+        background-color: #c9b6e4;
+        padding: 50px 0 20px;
+}
+.btn {
+  box-shadow: -7px 3px 10px 3px #9037c4;
+background-color:#c4a2db;
+border-radius:39px;
+border:2px solid #7b39de;
+display:inline-block;
+cursor:pointer;
+color:#471fb5;
+font-family:Trebuchet MS;
+font-size:24px;
+font-weight:bold;
+padding:19px 25px;
+text-decoration:none;
+text-shadow:-1px 3px 7px #ab36d9;
+}
+.btn:hover {
+	background-color:#8e78e6;
+}
+.btn:active {
+	position:relative;
+	bottom: 4px;
+}
+.copyright {
+           color: #ab36d9;
+           text-align: center;
+           font-size: 0.85rem;
+           font-weight: bolder;
+
+
+}
+h1 {
+   color: #f54291;
+
+
+}
+h2 {
+   color: #7045af;
+   margin-top: 0;
+   font-size: 3em;
+   font-weight: lighter;
+}
+h3 {
+   color: #7045af;
+   font-size: 2em;
+   font-weight: lighter;
+
+}
+
+.heading {
+         background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoNp1yLnmtctqwCrs5Sbk-hi2lhT51iaz3Y1sCVtAKikaUZsWhig&s);
+         background-size: 100%;
+         background-repeat: no-repeat;
+         font-weight:bold;
+         font-size: 32px;
+         margin-right: 0;
+         padding-top: 1px;
+         padding-bottom: 13px;
+         text-align: center;
+
+}
+.Hi {
+    background-color:#d9eeec;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+hr {
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 20%;
+    border-color: #51e3d4;
+    margin: 80px auto;
+}
+img {
+    height: 14em;
+    width: 14em;
+    border-radius: 20%;
+
+}
+.kartik {
+        text-shadow: 4px 3px #f1fa3c;
+        font-family: "Sacramento",cursive;
+        text-decoration: underline;
+        position: absolute;
+        left: 50px;
+        top: 400px;
+}
+.learner {
+         position: absolute;
+         left: 50px;
+         top: 450px;
+         color: #0000ff;
+}
+
+
+p {
+  font-size: 1em;
+  font-family: "Dosis",sans-serif;
+  color: #aa26da;
+  text-align: center;
+
+}
+.potato {
+        text-decoration: underline;
+}
+
+.t1 {
+    margin-left: auto;
+    margin-right: auto;
+
+}
+table {
+      height: 100%;
+      width: 40%;
+}
+.qoute {
+       color: #e40475;
+       margin-top: 100px;
+       font-family: "Dosis",sans-serif;
+}
